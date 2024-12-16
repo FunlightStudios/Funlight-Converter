@@ -1,5 +1,8 @@
 # Funlight Converter
 
+# ⚠️ Work in Progress
+This project is under active development and not production-ready yet.
+
 Ein moderner YouTube-Downloader und Converter mit einer schönen Dark Mode Benutzeroberfläche.
 
 ## Features
